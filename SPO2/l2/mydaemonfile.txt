@@ -1,0 +1,7 @@
+0
+fedorov
+18
+fedorov
+36
+fedorov
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
